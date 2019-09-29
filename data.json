@@ -1,6 +1,6 @@
 [
     {
-        "name": "dungeons",
+        "name": "Dungeons",
         "items": [
             {
                 "id": "1",
@@ -45,7 +45,7 @@
         ]
     },
     {
-        "name": "alliance raids",
+        "name": "Alliance Raids",
         "items": [
             {
                 "id": "5",
@@ -95,7 +95,7 @@
         ]
     },
     {
-        "name": "normal raids",
+        "name": "Normal Raids",
         "items": [
             {
                 "id": "24",
@@ -285,7 +285,7 @@
         ]
     },
     {
-        "name": "trials",
+        "name": "Trials",
         "items": [
             {
                 "id": "13",
@@ -405,7 +405,7 @@
         ]
     },
     {
-        "name": "pvp",
+        "name": "Player vs Player",
         "items": [
             {
                 "id": "52",
@@ -425,7 +425,7 @@
         ]
     },
     {
-        "name": "other",
+        "name": "Other",
         "items": [
             {
                 "id": "46",

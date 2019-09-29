@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/wondrous-tails/static/css/main.4287a31d.chunk.css",
-    "main.js": "/wondrous-tails/static/js/main.ebd80c2e.chunk.js",
-    "main.js.map": "/wondrous-tails/static/js/main.ebd80c2e.chunk.js.map",
+    "main.css": "/wondrous-tails/static/css/main.9cfbafe9.chunk.css",
+    "main.js": "/wondrous-tails/static/js/main.b870d8fe.chunk.js",
+    "main.js.map": "/wondrous-tails/static/js/main.b870d8fe.chunk.js.map",
     "runtime-main.js": "/wondrous-tails/static/js/runtime-main.cab3de07.js",
     "runtime-main.js.map": "/wondrous-tails/static/js/runtime-main.cab3de07.js.map",
-    "static/js/2.b1b08a39.chunk.js": "/wondrous-tails/static/js/2.b1b08a39.chunk.js",
-    "static/js/2.b1b08a39.chunk.js.map": "/wondrous-tails/static/js/2.b1b08a39.chunk.js.map",
+    "static/js/2.6603a424.chunk.js": "/wondrous-tails/static/js/2.6603a424.chunk.js",
+    "static/js/2.6603a424.chunk.js.map": "/wondrous-tails/static/js/2.6603a424.chunk.js.map",
     "index.html": "/wondrous-tails/index.html",
-    "precache-manifest.edeaf34c6683cb628f6c0fa87d15bc85.js": "/wondrous-tails/precache-manifest.edeaf34c6683cb628f6c0fa87d15bc85.js",
+    "precache-manifest.909b01cf0044f52d886aef56ba1ae6f6.js": "/wondrous-tails/precache-manifest.909b01cf0044f52d886aef56ba1ae6f6.js",
     "service-worker.js": "/wondrous-tails/service-worker.js",
-    "static/css/main.4287a31d.chunk.css.map": "/wondrous-tails/static/css/main.4287a31d.chunk.css.map"
+    "static/css/main.9cfbafe9.chunk.css.map": "/wondrous-tails/static/css/main.9cfbafe9.chunk.css.map"
   }
 }
