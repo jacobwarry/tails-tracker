@@ -31,6 +31,9 @@ const items = (state = [], action) => {
         if (existingItem) {
             switch (action.type) {
                 case 'ADD_ITEM':
+                    if (existingItem.count === 99) {
+                        return state;
+                    }                     
                     action.type = 'INCREMENT';
                     break;
                 case 'DECREMENT':
@@ -38,6 +41,11 @@ const items = (state = [], action) => {
                         action.type = 'DELETE_ITEM';
                     }
                     break;
+                case 'INCREMENT':
+                    if (existingItem.count === 99) {
+                        return state;
+                    }               
+                    break;         
                 default:
                     break;
             }
@@ -55,6 +63,7 @@ const items = (state = [], action) => {
         case 'DELETE_ITEM':
             return state.filter(({id}) => id !== action.id);
         case 'INCREMENT':
+            return state.map(item => change_item(item, action)); 
         case 'DECREMENT':
             return state.map(item => change_item(item, action));
         default:

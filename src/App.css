@@ -1,136 +1,264 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+body {
+	line-height: 1;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+blockquote, q {
+	quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+* {
+  box-sizing: border-box; }
+
+html, body, #root {
+  height: 100%;
+  min-height: 100%;
+  min-width: 1000px;
+}
+
+a, a:hover {
+  text-decoration: none;
+}
+
 html, body {
+  background-color: #EAEAEA;
+  /* background-color: #36393f !important;
+  color: #fff; */
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
   margin: 0;
-  padding: 0;
 }
 
-#root {
+
+header {
+  background-color: #23374d;
+  position: relative;
+  z-index: 30;  
+}
+
+nav {
+  width: 100%;
+  max-width: 1200px;
   margin: 0 auto;
-  width: 940px;
-}
-
-.tails {
-  padding: 20px;
-}
-
-.tails-grid {
   display: flex;
-  justify-content: space-between;
 }
 
-.tails-col-1 {
-  width: 44%;
+nav > div {
+  line-height: 100px;
+  height: 100px;
 }
 
-.tails-col-2 {
-  width: 56%;
+nav > div:nth-of-type(1) {
+  flex: 0 1 220px;
 }
 
-.tails-categories {
+nav a {
+  color: white;
+  font-family: 'Questrial', sans-serif;
+  font-size: 34px;
+  font-weight: 500;
 }
 
-.tails-selected {
-  margin-left: 20px;
+nav a:hover {
+  color: white;
 }
 
-.dud {
-  border: 1px solid #DEDEDE;
+main {
+  display: block;
 }
 
-.category {
-  border: 1px solid #DEDEDE;
-  padding: 15px;
+main .tails {
+  min-height: calc(100vh - 100px);
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
 }
 
-.category + .category {
-  margin-top: 20px;
+main .tails .tails-options {
+  flex: 1 1 calc(50% + 165px);
+  padding: 50px 35px 50px 50px;
 }
 
-.category-title,
-.tails-selected-title {
-  font-size: 18px;
-  font-weight: 700;
-  letter-spacing: 2px;
-  margin-bottom: 5px;
-  text-transform: uppercase;
+main .tails .tails-selections {
+  /* background-color: #2A2D34; */
+  flex: 1 1 calc(50% - 165px);
+  padding: 50px 50px 50px 35px;
+  border-left: 1px solid #dedede;
 }
 
-.category-items {
+main .tails aside {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  max-width: 430px;
+  float: left;
+}
+
+main .tails main {
+  width: 100%;
+  float: right;
+  max-width: 730px;
+}
+
+main .tails main .category  + .category{
+ margin-top: 30px;
+}
+
+
+main .tails .big-title {
+  border-bottom: 1px solid #DADADA;
+  font-size: 32px;
+  font-weight: 300;
+  padding-bottom: 4px;
+  margin-bottom: 10px;
+}
+
+main .tails main .category .category-items {
   display: flex;
   flex-wrap: wrap;
 }
 
-.item {
+main .tails main .category .category-items .item {
   cursor: pointer;
   height: 42px;
   margin: 4px 5px;
 }
 
-.item:hover {
-  opacity: 1;
-}
-
-.item > img {
+main .tails main .category .category-items .item > img {
   display: block;
   filter: none;
   opacity: 1;
 }
 
-.item > img:hover {
+main .tails main .category .category-items .item > img:hover {
   filter: grayscale(100%); 
   opacity: 0.8;
   transition: all .4s linear;
 }
 
-.tooltip {
-  font-size: 10px;
-  font-weight: 700;
-}
-
-.tails-selected {
-  border: 1px solid #DEDEDE;
-  padding: 15px;
-}
-
-.selected-item {
+main .tails aside .selected-item {
   display: flex;
-  height: 30px;
+  padding: 4px 6px;
 }
 
-.selected-item + .selected-item {
-  border-top: 1px solid #DEDEDE;
-  margin-top: 9px;
+main .tails aside .selected-item:hover {
+  background: #F0F0F0;
 }
 
-.selected-item .item-image {}
+main .tails aside .selected-item + .selected-item {
+  margin-top: 5px;
+}
 
-.selected-item .item-image  img {
-  height: 30px;
+main .tails aside .selected-item .item-image img {
   display: block;
+  width: 45px;
 }
 
-.selected-item .item-title {
-  font-size: 10px;
+main .tails aside .selected-item .item-count {
+  color: #333;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 29px;
+  padding-left: 6px;
+  text-align: right;
+  width: 27px;
+}
+
+main .tails aside .selected-item .item-title {
+  font-size: 14px;
   font-weight: 500;
-  line-height: 30px;
-  padding: 0 5px;
+  line-height: 29px;
+  padding-left: 7px;
 }
 
-.selected-item .item-count {
-  font-size: 10px;
-  font-weight: 700;
-  line-height: 30px;
-  margin-left: auto; 
-  text-align: center;
-  width: 30px;
+main .tails aside .selected-item .item-actions {
+  margin-left: auto;
+  padding: 3px 0;
 }
 
-.selected-item .item-actions {
-}
-
-.selected-item .item-actions button {
+.selected-item .item-actions .action-btn {
+  background-color: white;
+  border: 0;
   border-radius: 0;
-  line-height: 12px;
-  vertical-align: initial;
-  height: 30px;
-  width: 30px;
+  display: inline-block;
+  font-size: 12px;
+  line-height: 1.5;
+  padding: 2px 8px;
+}
+
+.selected-item .item-actions .action-btn + .action-btn {
+  margin-left: 5px;
+}
+
+.selected-item .item-actions .action-btn.btn-default:hover {  
+  background: #F6F6F6;
+}
+
+.selected-item .item-actions .action-btn.btn-add {
+  color: white;
+  background-color: #007bff;
+}
+
+.selected-item .item-actions .action-btn.btn-add:hover {
+  background-color: #0069d9;
+}
+
+.selected-item .item-actions .action-btn.btn-delete {
+  color: white;
+  background-color: #dc3545;
+}
+
+.selected-item .item-actions .action-btn.btn-delete:hover {
+  background-color: #bd2130; 
+}
+
+.tooltip {
+  font-size: 11px;
+  font-weight: 500;
 }
