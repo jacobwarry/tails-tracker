@@ -1,22 +1,136 @@
-.App {
-  text-align: center;
+html, body {
+  margin: 0;
+  padding: 0;
 }
 
-.App-logo {
-  height: 40vmin;
+#root {
+  margin: 0 auto;
+  width: 940px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.tails {
+  padding: 20px;
+}
+
+.tails-grid {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-between;
 }
 
-.App-link {
-  color: #09d3ac;
+.tails-col-1 {
+  width: 44%;
+}
+
+.tails-col-2 {
+  width: 56%;
+}
+
+.tails-categories {
+}
+
+.tails-selected {
+  margin-left: 20px;
+}
+
+.dud {
+  border: 1px solid #DEDEDE;
+}
+
+.category {
+  border: 1px solid #DEDEDE;
+  padding: 15px;
+}
+
+.category + .category {
+  margin-top: 20px;
+}
+
+.category-title,
+.tails-selected-title {
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin-bottom: 5px;
+  text-transform: uppercase;
+}
+
+.category-items {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.item {
+  cursor: pointer;
+  height: 42px;
+  margin: 4px 5px;
+}
+
+.item:hover {
+  opacity: 1;
+}
+
+.item > img {
+  display: block;
+  filter: none;
+  opacity: 1;
+}
+
+.item > img:hover {
+  filter: grayscale(100%); 
+  opacity: 0.8;
+  transition: all .4s linear;
+}
+
+.tooltip {
+  font-size: 10px;
+  font-weight: 700;
+}
+
+.tails-selected {
+  border: 1px solid #DEDEDE;
+  padding: 15px;
+}
+
+.selected-item {
+  display: flex;
+  height: 30px;
+}
+
+.selected-item + .selected-item {
+  border-top: 1px solid #DEDEDE;
+  margin-top: 9px;
+}
+
+.selected-item .item-image {}
+
+.selected-item .item-image  img {
+  height: 30px;
+  display: block;
+}
+
+.selected-item .item-title {
+  font-size: 10px;
+  font-weight: 500;
+  line-height: 30px;
+  padding: 0 5px;
+}
+
+.selected-item .item-count {
+  font-size: 10px;
+  font-weight: 700;
+  line-height: 30px;
+  margin-left: auto; 
+  text-align: center;
+  width: 30px;
+}
+
+.selected-item .item-actions {
+}
+
+.selected-item .item-actions button {
+  border-radius: 0;
+  line-height: 12px;
+  vertical-align: initial;
+  height: 30px;
+  width: 30px;
 }
