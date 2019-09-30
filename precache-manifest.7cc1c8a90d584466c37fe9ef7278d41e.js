@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b93392b837335572508882351f9f43ba",
+    "revision": "916d3bf371794758c97f3835100cfcef",
     "url": "/wondrous-tails/index.html"
   },
   {
-    "revision": "f59ad3a42e61a6c1a930",
-    "url": "/wondrous-tails/static/css/main.1ef929fd.chunk.css"
+    "revision": "e423927c99b75a609e7b",
+    "url": "/wondrous-tails/static/css/main.20b920c2.chunk.css"
   },
   {
     "revision": "dec0feb210a3521bc5b5",
     "url": "/wondrous-tails/static/js/2.864b44cd.chunk.js"
   },
   {
-    "revision": "f59ad3a42e61a6c1a930",
-    "url": "/wondrous-tails/static/js/main.dcfe1719.chunk.js"
+    "revision": "e423927c99b75a609e7b",
+    "url": "/wondrous-tails/static/js/main.b02f0fd5.chunk.js"
   },
   {
     "revision": "e11a9abf13988dc0a35c",
