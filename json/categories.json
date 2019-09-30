@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "title": "Dungeons",
+        "image": "061801.png"
+    },
+    {
+        "id": "2",
+        "title": "Alliance Raids",
+        "image": "061802.png"
+    },
+    {
+        "id": "3",
+        "title": "Normal Raids",
+        "image": "061802.png"
+    },
+    {
+        "id": "4",
+        "title": "Trials",
+        "image": "061804.png"
+    },
+    {
+        "id": "5",
+        "title": "Player vs Player",
+        "image": "061806.png"
+    },
+    {
+        "id": "6",
+        "title": "Other",
+        "image": "061808.png"
+    }          
+]

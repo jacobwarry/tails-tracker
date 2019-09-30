@@ -15,43 +15,43 @@
         "id": "3",
         "title": "Dungeons (Lv. 51-59)",
         "image": "113003.png",
-        "category": "Dungeons"                
+        "category": "Dungeons"
     },
     {
         "id": "4",
         "title": "Dungeons (Lv. 60)",
         "image": "113004.png",
-        "category": "Dungeons"                
+        "category": "Dungeons"
     },
     {
         "id": "59",
         "title": "Dungeons (Lv. 61-69)",
         "image": "113062.png",
-        "category": "Dungeons"                
+        "category": "Dungeons"
     },
     {
         "id": "60",
         "title": "Dungeons (Lv. 70)",
         "image": "113063.png",
-        "category": "Dungeons"                
+        "category": "Dungeons"
     },
     {
         "id": "85",
         "title": "Dungeons (Lv. 71-79)",
         "image": "113086.png",
-        "category": "Dungeons"                
+        "category": "Dungeons"
     },
     {
         "id": "86",
         "title": "Dungeons (Lv. 80)",
         "image": "113087.png",
-        "category": "Dungeons"                
-    },                               
+        "category": "Dungeons"
+    },
     {
         "id": "5",
         "title": "the Labyrinth of the Ancients",
         "image": "113005.png",
-        "category": "Alliance Raids"             
+        "category": "Alliance Raids"
     },
     {
         "id": "6",
@@ -69,7 +69,7 @@
         "id": "8",
         "title": "the Void Ark",
         "image": "113008.png",
-        "category": "Alliance Raids"                
+        "category": "Alliance Raids"
     },
     {
         "id": "41",
@@ -87,7 +87,7 @@
         "id": "68",
         "title": "the Royal City of Rabanastre",
         "image": "113068.png",
-        "category": "Alliance Raids"                
+        "category": "Alliance Raids"
     },
     {
         "id": "73",
@@ -100,7 +100,7 @@
         "title": "the Orbonne Monastery",
         "image": "113080.png",
         "category": "Alliance Raids"
-    },        
+    },
     {
         "id": "24",
         "title": "the Binding Coil of Bahamut - Turn 1",
@@ -112,7 +112,7 @@
         "title": "the Binding Coil of Bahamut - Turn 2",
         "image": "113033.png",
         "category": "Normal Raids"
-    },            
+    },
     {
         "id": "26",
         "title": "the Binding Coil of Bahamut - Turn 3",
@@ -142,7 +142,7 @@
         "title": "the Second Coil of Bahamut - Turn 2",
         "image": "113038.png",
         "category": "Normal Raids"
-    },            
+    },
     {
         "id": "31",
         "title": "the Second Coil of Bahamut - Turn 3",
@@ -166,7 +166,7 @@
         "title": "the Final Coil of Bahamut - Turn 2",
         "image": "113042.png",
         "category": "Normal Raids"
-    },            
+    },
     {
         "id": "35",
         "title": "the Final Coil of Bahamut - Turn 3",
@@ -190,7 +190,7 @@
         "title": "Alexander - The Cuff of the Father",
         "image": "113011.png",
         "category": "Normal Raids"
-    },            
+    },
     {
         "id": "11",
         "title": "Alexander - The Arm of the Father",
@@ -202,7 +202,7 @@
         "title": "Alexander - The Burden of the Father",
         "image": "113013.png",
         "category": "Normal Raids"
-    },     
+    },
     {
         "id": "42",
         "title": "Alexander - The Fist of the Son",
@@ -214,7 +214,7 @@
         "title": "Alexander - The Cuff of the Son",
         "image": "113015.png",
         "category": "Normal Raids"
-    },            
+    },
     {
         "id": "44",
         "title": "Alexander - The Arm of the Son",
@@ -238,7 +238,7 @@
         "title": "Alexander - The Breath of the Creator",
         "image": "113059.png",
         "category": "Normal Raids"
-    },            
+    },
     {
         "id": "57",
         "title": "Alexander - The Heart of the Creator",
@@ -478,7 +478,7 @@
         "title": "Rival Wings",
         "image": "113085.png",
         "category": "Player vs Player"
-    },                        
+    },
     {
         "id": "46",
         "title": "Aquapolis/Lost Canals/Lyhe Ghiah",
@@ -490,5 +490,5 @@
         "title": "Palace of the Dead/Heaven-on-High",
         "image": "113056.png",
         "category": "Other"
-    }             
+    }
 ]
