@@ -8,7 +8,7 @@ class Item extends React.Component {
         );
 
         return (
-            <div className="item" onClick={() => this.props.onAddItem()}>
+            <div className="item" data-id={this.props.id} onClick={() => this.props.onAddItem()}>
                 <OverlayTrigger placement="top" overlay={tooltip}>
                     <img src={'./images/' + this.props.image} alt={this.props.title} />
                 </OverlayTrigger>

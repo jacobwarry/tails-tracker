@@ -10,15 +10,32 @@ class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
+      items: [],
       categories: []
     };
+    this.formatCatgories = this.formatCatgories.bind(this);
+  }
+
+  formatCatgories(data) {
+    let categories = []
+    const categoryNames = data.map(item => item.category).filter((value, index, self) => self.indexOf(value) === index);
+    categoryNames.forEach(categoryName => {
+      const category = {
+        'name': categoryName,
+        'items': data.filter(item => item.category === categoryName)
+      };
+      categories.push(category);
+    });
+    return categories;
   }
 
   componentDidMount() {
     axios.get('./data.json')
       .then((res) => {
+        const categories = this.formatCatgories(res.data);
         this.setState({
-          categories: res.data
+          items: res.data,
+          categories: categories
         })
       });
   }

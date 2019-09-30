@@ -1,9 +1,9 @@
 import React from 'react';
 import { connect } from 'react-redux';
-import { increment, decrement, deleteItem } from '../actions/';
+import { deleteItem } from '../actions/';
 import SelectedItem from './SelectedItem';
 
-const SelectedItemList = ({items, onIncrement, onDecrement, onDeleteItem}) => {
+const SelectedItemList = ({items, onDeleteItem}) => {
     return  (
         <div className="tails-selected">
             <div className="big-title">Selected</div>
@@ -11,8 +11,6 @@ const SelectedItemList = ({items, onIncrement, onDecrement, onDeleteItem}) => {
             <SelectedItem
                 key={item.id}
                 item={item}
-                onIncrement={() => onIncrement(item.id)}
-                onDecrement={() => onDecrement(item.id)}
                 onDeleteItem={() => onDeleteItem(item.id)}
             />    
         ) : <div>No items selected</div>}
@@ -28,8 +26,6 @@ const mapStateToProps = (state) => {
 
 const mapDispatchToProps = (dispatch) => {
     return {
-        onIncrement: (id) => dispatch(increment(id)),
-        onDecrement: (id) => dispatch(decrement(id)),
         onDeleteItem: (id) => dispatch(deleteItem(id))
     };
 };

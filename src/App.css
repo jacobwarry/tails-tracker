@@ -183,13 +183,11 @@ main .tails main .category .category-items .item > img:hover {
 }
 
 main .tails aside .selected-item {
+  background: #F0F0F0;
   display: flex;
   padding: 4px 6px;
 }
 
-main .tails aside .selected-item:hover {
-  background: #F0F0F0;
-}
 
 main .tails aside .selected-item + .selected-item {
   margin-top: 5px;
@@ -198,16 +196,6 @@ main .tails aside .selected-item + .selected-item {
 main .tails aside .selected-item .item-image img {
   display: block;
   width: 45px;
-}
-
-main .tails aside .selected-item .item-count {
-  color: #333;
-  font-size: 14px;
-  font-weight: 600;
-  line-height: 29px;
-  padding-left: 6px;
-  text-align: right;
-  width: 27px;
 }
 
 main .tails aside .selected-item .item-title {

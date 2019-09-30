@@ -1,442 +1,494 @@
 [
     {
-        "name": "Dungeons",
-        "items": [
-            {
-                "id": "1",
-                "title": "Dungeons (Lv. 1-49)",
-                "image": "113001.png"
-            },
-            {
-                "id": "2",
-                "title": "Dungeons (Lv. 50)",
-                "image": "113002.png"
-            },
-            {
-                "id": "3",
-                "title": "Dungeons (Lv. 51-59)",
-                "image": "113003.png"                
-            },
-            {
-                "id": "4",
-                "title": "Dungeons (Lv. 60)",
-                "image": "113004.png"                
-            },
-            {
-                "id": "59",
-                "title": "Dungeons (Lv. 61-69)",
-                "image": "113062.png"                
-            },
-            {
-                "id": "60",
-                "title": "Dungeons (Lv. 70)",
-                "image": "113063.png"                
-            },
-            {
-                "id": "85",
-                "title": "Dungeons (Lv. 71-79)",
-                "image": "113086.png"                
-            },
-            {
-                "id": "86",
-                "title": "Dungeons (Lv. 80)",
-                "image": "113087.png"                
-            }                               
-        ]
+        "id": "1",
+        "title": "Dungeons (Lv. 1-49)",
+        "image": "113001.png",
+        "category": "Dungeons"
     },
     {
-        "name": "Alliance Raids",
-        "items": [
-            {
-                "id": "5",
-                "title": "the Labyrinth of the Ancients",
-                "image": "113005.png"                
-            },
-            {
-                "id": "6",
-                "title": "Syrcus Tower",
-                "image": "113006.png"
-            },
-            {
-                "id": "7",
-                "title": "the World of Darkness",
-                "image": "113007.png"
-            },
-            {
-                "id": "8",
-                "title": "the Void Ark",
-                "image": "113008.png"                
-            },
-            {
-                "id": "41",
-                "title": "the Weeping City of Mhach",
-                "image": "113009.png"
-            },
-            {
-                "id": "61",
-                "title": "Dun Scaith",
-                "image": "113064.png"
-            },
-            {
-                "id": "68",
-                "title": "the Royal City of Rabanastre",
-                "image": "113068.png"                
-            },
-            {
-                "id": "73",
-                "title": "the Ridorana Lighthouse",
-                "image": "113073.png"
-            },
-            {
-                "id": "84",
-                "title": "the Orbonne Monastery",
-                "image": "113080.png"
-            }        
-        ]
+        "id": "2",
+        "title": "Dungeons (Lv. 50)",
+        "image": "113002.png",
+        "category": "Dungeons"
     },
     {
-        "name": "Normal Raids",
-        "items": [
-            {
-                "id": "24",
-                "title": "the Binding Coil of Bahamut - Turn 1",
-                "image": "113032.png"
-            },
-            {
-                "id": "25",
-                "title": "the Binding Coil of Bahamut - Turn 2",
-                "image": "113033.png"
-            },            
-            {
-                "id": "26",
-                "title": "the Binding Coil of Bahamut - Turn 3",
-                "image": "113034.png"
-            },
-            {
-                "id": "27",
-                "title": "the Binding Coil of Bahamut - Turn 4",
-                "image": "113035.png"
-            },
-            {
-                "id": "28",
-                "title": "the Binding Coil of Bahamut - Turn 5",
-                "image": "113036.png"
-            },
-            {
-                "id": "29",
-                "title": "the Second Coil of Bahamut - Turn 1",
-                "image": "113037.png"
-            },
-            {
-                "id": "30",
-                "title": "the Second Coil of Bahamut - Turn 2",
-                "image": "113038.png"
-            },            
-            {
-                "id": "31",
-                "title": "the Second Coil of Bahamut - Turn 3",
-                "image": "113039.png"
-            },
-            {
-                "id": "32",
-                "title": "the Second Coil of Bahamut - Turn 4",
-                "image": "113040.png"
-            },
-            {
-                "id": "33",
-                "title": "the Final Coil of Bahamut - Turn 1",
-                "image": "113041.png"
-            },
-            {
-                "id": "34",
-                "title": "the Final Coil of Bahamut - Turn 2",
-                "image": "113042.png"
-            },            
-            {
-                "id": "35",
-                "title": "the Final Coil of Bahamut - Turn 3",
-                "image": "113043.png"
-            },
-            {
-                "id": "36",
-                "title": "the Final Coil of Bahamut - Turn 4",
-                "image": "113044.png"
-            },
-            {
-                "id": "9",
-                "title": "Alexander - The Fist of the Father",
-                "image": "113010.png"
-            },
-            {
-                "id": "10",
-                "title": "Alexander - The Cuff of the Father",
-                "image": "113011.png"
-            },            
-            {
-                "id": "11",
-                "title": "Alexander - The Arm of the Father",
-                "image": "113012.png"
-            },
-            {
-                "id": "12",
-                "title": "Alexander - The Burden of the Father",
-                "image": "113013.png"
-            },     
-            {
-                "id": "42",
-                "title": "Alexander - The Fist of the Son",
-                "image": "113014.png"
-            },
-            {
-                "id": "43",
-                "title": "Alexander - The Cuff of the Son",
-                "image": "113015.png"
-            },            
-            {
-                "id": "44",
-                "title": "Alexander - The Arm of the Son",
-                "image": "113016.png"
-            },
-            {
-                "id": "45",
-                "title": "Alexander - The Burden of the Son",
-                "image": "113017.png"
-            },
-            {
-                "id": "55",
-                "title": "Alexander - The Eyes of the Creator",
-                "image": "113058.png"
-            },
-            {
-                "id": "56",
-                "title": "Alexander - The Breath of the Creator",
-                "image": "113059.png"
-            },            
-            {
-                "id": "57",
-                "title": "Alexander - The Heart of the Creator",
-                "image": "113060.png"
-            },
-            {
-                "id": "58",
-                "title": "Alexander - The Soul of the Creator",
-                "image": "113061.png"
-            },
-            {
-                "id": "69",
-                "title": "Deltascape V1.0",
-                "image": "113069.png"
-            },
-            {
-                "id": "70",
-                "title": "Deltascape V2.0",
-                "image": "113070.png"
-            },
-            {
-                "id": "71",
-                "title": "Deltascape V3.0",
-                "image": "113071.png"
-            },
-            {
-                "id": "72",
-                "title": "Deltascape V4.0",
-                "image": "113072.png"
-            },
-            {
-                "id": "74",
-                "title": "Sigmascape V1.0",
-                "image": "113074.png"
-            },
-            {
-                "id": "75",
-                "title": "Sigmascape V2.0",
-                "image": "113075.png"
-            },
-            {
-                "id": "76",
-                "title": "Sigmascape V3.0",
-                "image": "113076.png"
-            },
-            {
-                "id": "77",
-                "title": "Sigmascape V4.0",
-                "image": "113077.png"
-            },
-            {
-                "id": "80",
-                "title": "Alphascape V1.0",
-                "image": "113081.png"
-            },
-            {
-                "id": "81",
-                "title": "Alphascape V2.0",
-                "image": "113082.png"
-            },
-            {
-                "id": "82",
-                "title": "Alphascape V3.0",
-                "image": "113083.png"
-            },
-            {
-                "id": "83",
-                "title": "Alphascape V4.0",
-                "image": "113084.png"
-            }                                                           
-        ]
+        "id": "3",
+        "title": "Dungeons (Lv. 51-59)",
+        "image": "113003.png",
+        "category": "Dungeons"                
     },
     {
-        "name": "Trials",
-        "items": [
-            {
-                "id": "13",
-                "title": "the Howling Eye (Extreme)",
-                "image": "113018.png"
-            },
-            {
-                "id": "14",
-                "title": "the Navel (Extreme)",
-                "image": "113019.png"
-            },
-            {
-                "id": "15",
-                "title": "the Bowl of Embers (Extreme)",
-                "image": "113020.png"
-            },
-            {
-                "id": "16",
-                "title": "Thornmarch (Extreme)",
-                "image": "113021.png"
-            },
-            {
-                "id": "17",
-                "title": "the Whorleater (Extreme)",
-                "image": "113022.png"
-            },
-            {
-                "id": "18",
-                "title": "the Striking Tree (Extreme)",
-                "image": "113023.png"
-            },
-            {
-                "id": "19",
-                "title": "Akh Afah Amphitheatre (Extreme)",
-                "image": "113024.png"
-            },
-            {
-                "id": "20",
-                "title": "the Minstrel's Ballad: Ultima's Bane",
-                "image": "113025.png"
-            },
-            {
-                "id": "21",
-                "title": "Urth's Fount",
-                "image": "113026.png"
-            },
-            {
-                "id": "22",
-                "title": "the Limitless Blue (Extreme)",
-                "image": "113027.png"
-            },
-            {
-                "id": "23",
-                "title": "Thok ast Thok (Extreme)",
-                "image": "113028.png"
-            },
-            {
-                "id": "62",
-                "title": "the Minstrel's Ballad: Thordan's Reign",
-                "image": "113029.png"
-            },
-            {
-                "id": "63",
-                "title": "Containment Bay S1T7 (Extreme)",
-                "image": "113030.png"
-            },
-            {
-                "id": "64",
-                "title": "the Minstrel's Ballad: Nidhogg's Rage",
-                "image": "113031.png"
-            },
-            {
-                "id": "65",
-                "title": "Containment Bay P1T6 (Extreme)",
-                "image": "113065.png"
-            },
-            {
-                "id": "66",
-                "title": "Containment Bay Z1T9 (Extreme)",
-                "image": "113066.png"
-            },
-            {
-                "id": "78",
-                "title": "the Pool of Tribute (Extreme)",
-                "image": "113078.png"
-            },
-            {
-                "id": "79",
-                "title": "Emanation (Extreme)",
-                "image": "113079.png"
-            },
-            {
-                "id": "87",
-                "title": "the Jade Stoa (Extreme)",
-                "image": "113088.png"
-            },
-            {
-                "id": "88",
-                "title": "the Minstrel's Ballad: Tsukuyomi's Pain",
-                "image": "113089.png"
-            },
-            {
-                "id": "89",
-                "title": "Hells' Kier (Extreme)",
-                "image": "113090.png"
-            },
-            {
-                "id": "90",
-                "title": "the Great Hunt (Extreme)",
-                "image": "113091.png"
-            },
-            {
-                "id": "91",
-                "title": "the Wreath of Snakes (Extreme)",
-                "image": "113092.png"
-            }                                                                                                                                                                                
-        ]
+        "id": "4",
+        "title": "Dungeons (Lv. 60)",
+        "image": "113004.png",
+        "category": "Dungeons"                
     },
     {
-        "name": "Player vs Player",
-        "items": [
-            {
-                "id": "52",
-                "title": "The Feast",
-                "image": "113049.png"
-            },
-            {
-                "id": "54",
-                "title": "Frontline",
-                "image": "113057.png"
-            },
-            {
-                "id": "67",
-                "title": "Rival Wings",
-                "image": "113085.png"
-            }                        
-        ]
+        "id": "59",
+        "title": "Dungeons (Lv. 61-69)",
+        "image": "113062.png",
+        "category": "Dungeons"                
     },
     {
-        "name": "Other",
-        "items": [
-            {
-                "id": "46",
-                "title": "Aquapolis/Lost Canals/Lyhe Ghiah",
-                "image": "113050.png"
-            },
-            {
-                "id": "53",
-                "title": "Palace of the Dead/Heaven-on-High",
-                "image": "113056.png"
-            }             
-        ]
-    }
+        "id": "60",
+        "title": "Dungeons (Lv. 70)",
+        "image": "113063.png",
+        "category": "Dungeons"                
+    },
+    {
+        "id": "85",
+        "title": "Dungeons (Lv. 71-79)",
+        "image": "113086.png",
+        "category": "Dungeons"                
+    },
+    {
+        "id": "86",
+        "title": "Dungeons (Lv. 80)",
+        "image": "113087.png",
+        "category": "Dungeons"                
+    },                               
+    {
+        "id": "5",
+        "title": "the Labyrinth of the Ancients",
+        "image": "113005.png",
+        "category": "Alliance Raids"             
+    },
+    {
+        "id": "6",
+        "title": "Syrcus Tower",
+        "image": "113006.png",
+        "category": "Alliance Raids"
+    },
+    {
+        "id": "7",
+        "title": "the World of Darkness",
+        "image": "113007.png",
+        "category": "Alliance Raids"
+    },
+    {
+        "id": "8",
+        "title": "the Void Ark",
+        "image": "113008.png",
+        "category": "Alliance Raids"                
+    },
+    {
+        "id": "41",
+        "title": "the Weeping City of Mhach",
+        "image": "113009.png",
+        "category": "Alliance Raids"
+    },
+    {
+        "id": "61",
+        "title": "Dun Scaith",
+        "image": "113064.png",
+        "category": "Alliance Raids"
+    },
+    {
+        "id": "68",
+        "title": "the Royal City of Rabanastre",
+        "image": "113068.png",
+        "category": "Alliance Raids"                
+    },
+    {
+        "id": "73",
+        "title": "the Ridorana Lighthouse",
+        "image": "113073.png",
+        "category": "Alliance Raids"
+    },
+    {
+        "id": "84",
+        "title": "the Orbonne Monastery",
+        "image": "113080.png",
+        "category": "Alliance Raids"
+    },        
+    {
+        "id": "24",
+        "title": "the Binding Coil of Bahamut - Turn 1",
+        "image": "113032.png",
+        "category": "Normal Raids"
+    },
+    {
+        "id": "25",
+        "title": "the Binding Coil of Bahamut - Turn 2",
+        "image": "113033.png",
+        "category": "Normal Raids"
+    },            
+    {
+        "id": "26",
+        "title": "the Binding Coil of Bahamut - Turn 3",
+        "image": "113034.png",
+        "category": "Normal Raids"
+    },
+    {
+        "id": "27",
+        "title": "the Binding Coil of Bahamut - Turn 4",
+        "image": "113035.png",
+        "category": "Normal Raids"
+    },
+    {
+        "id": "28",
+        "title": "the Binding Coil of Bahamut - Turn 5",
+        "image": "113036.png",
+        "category": "Normal Raids"
+    },
+    {
+        "id": "29",
+        "title": "the Second Coil of Bahamut - Turn 1",
+        "image": "113037.png",
+        "category": "Normal Raids"
+    },
+    {
+        "id": "30",
+        "title": "the Second Coil of Bahamut - Turn 2",
+        "image": "113038.png",
+        "category": "Normal Raids"
+    },            
+    {
+        "id": "31",
+        "title": "the Second Coil of Bahamut - Turn 3",
+        "image": "113039.png",
+        "category": "Normal Raids"
+    },
+    {
+        "id": "32",
+        "title": "the Second Coil of Bahamut - Turn 4",
+        "image": "113040.png",
+        "category": "Normal Raids"
+    },
+    {
+        "id": "33",
+        "title": "the Final Coil of Bahamut - Turn 1",
+        "image": "113041.png",
+        "category": "Normal Raids"
+    },
+    {
+        "id": "34",
+        "title": "the Final Coil of Bahamut - Turn 2",
+        "image": "113042.png",
+        "category": "Normal Raids"
+    },            
+    {
+        "id": "35",
+        "title": "the Final Coil of Bahamut - Turn 3",
+        "image": "113043.png",
+        "category": "Normal Raids"
+    },
+    {
+        "id": "36",
+        "title": "the Final Coil of Bahamut - Turn 4",
+        "image": "113044.png",
+        "category": "Normal Raids"
+    },
+    {
+        "id": "9",
+        "title": "Alexander - The Fist of the Father",
+        "image": "113010.png",
+        "category": "Normal Raids"
+    },
+    {
+        "id": "10",
+        "title": "Alexander - The Cuff of the Father",
+        "image": "113011.png",
+        "category": "Normal Raids"
+    },            
+    {
+        "id": "11",
+        "title": "Alexander - The Arm of the Father",
+        "image": "113012.png",
+        "category": "Normal Raids"
+    },
+    {
+        "id": "12",
+        "title": "Alexander - The Burden of the Father",
+        "image": "113013.png",
+        "category": "Normal Raids"
+    },     
+    {
+        "id": "42",
+        "title": "Alexander - The Fist of the Son",
+        "image": "113014.png",
+        "category": "Normal Raids"
+    },
+    {
+        "id": "43",
+        "title": "Alexander - The Cuff of the Son",
+        "image": "113015.png",
+        "category": "Normal Raids"
+    },            
+    {
+        "id": "44",
+        "title": "Alexander - The Arm of the Son",
+        "image": "113016.png",
+        "category": "Normal Raids"
+    },
+    {
+        "id": "45",
+        "title": "Alexander - The Burden of the Son",
+        "image": "113017.png",
+        "category": "Normal Raids"
+    },
+    {
+        "id": "55",
+        "title": "Alexander - The Eyes of the Creator",
+        "image": "113058.png",
+        "category": "Normal Raids"
+    },
+    {
+        "id": "56",
+        "title": "Alexander - The Breath of the Creator",
+        "image": "113059.png",
+        "category": "Normal Raids"
+    },            
+    {
+        "id": "57",
+        "title": "Alexander - The Heart of the Creator",
+        "image": "113060.png",
+        "category": "Normal Raids"
+    },
+    {
+        "id": "58",
+        "title": "Alexander - The Soul of the Creator",
+        "image": "113061.png",
+        "category": "Normal Raids"
+    },
+    {
+        "id": "69",
+        "title": "Deltascape V1.0",
+        "image": "113069.png",
+        "category": "Normal Raids"
+    },
+    {
+        "id": "70",
+        "title": "Deltascape V2.0",
+        "image": "113070.png",
+        "category": "Normal Raids"
+    },
+    {
+        "id": "71",
+        "title": "Deltascape V3.0",
+        "image": "113071.png",
+        "category": "Normal Raids"
+    },
+    {
+        "id": "72",
+        "title": "Deltascape V4.0",
+        "image": "113072.png",
+        "category": "Normal Raids"
+    },
+    {
+        "id": "74",
+        "title": "Sigmascape V1.0",
+        "image": "113074.png",
+        "category": "Normal Raids"
+    },
+    {
+        "id": "75",
+        "title": "Sigmascape V2.0",
+        "image": "113075.png",
+        "category": "Normal Raids"
+    },
+    {
+        "id": "76",
+        "title": "Sigmascape V3.0",
+        "image": "113076.png",
+        "category": "Normal Raids"
+    },
+    {
+        "id": "77",
+        "title": "Sigmascape V4.0",
+        "image": "113077.png",
+        "category": "Normal Raids"
+    },
+    {
+        "id": "80",
+        "title": "Alphascape V1.0",
+        "image": "113081.png",
+        "category": "Normal Raids"
+    },
+    {
+        "id": "81",
+        "title": "Alphascape V2.0",
+        "image": "113082.png",
+        "category": "Normal Raids"
+    },
+    {
+        "id": "82",
+        "title": "Alphascape V3.0",
+        "image": "113083.png",
+        "category": "Normal Raids"
+    },
+    {
+        "id": "83",
+        "title": "Alphascape V4.0",
+        "image": "113084.png",
+        "category": "Normal Raids"
+    },
+    {
+        "id": "13",
+        "title": "the Howling Eye (Extreme)",
+        "image": "113018.png",
+        "category": "Trials"
+    },
+    {
+        "id": "14",
+        "title": "the Navel (Extreme)",
+        "image": "113019.png",
+        "category": "Trials"
+    },
+    {
+        "id": "15",
+        "title": "the Bowl of Embers (Extreme)",
+        "image": "113020.png",
+        "category": "Trials"
+    },
+    {
+        "id": "16",
+        "title": "Thornmarch (Extreme)",
+        "image": "113021.png",
+        "category": "Trials"
+    },
+    {
+        "id": "17",
+        "title": "the Whorleater (Extreme)",
+        "image": "113022.png",
+        "category": "Trials"
+    },
+    {
+        "id": "18",
+        "title": "the Striking Tree (Extreme)",
+        "image": "113023.png",
+        "category": "Trials"
+    },
+    {
+        "id": "19",
+        "title": "Akh Afah Amphitheatre (Extreme)",
+        "image": "113024.png",
+        "category": "Trials"
+    },
+    {
+        "id": "20",
+        "title": "the Minstrel's Ballad: Ultima's Bane",
+        "image": "113025.png",
+        "category": "Trials"
+    },
+    {
+        "id": "21",
+        "title": "Urth's Fount",
+        "image": "113026.png",
+        "category": "Trials"
+    },
+    {
+        "id": "22",
+        "title": "the Limitless Blue (Extreme)",
+        "image": "113027.png",
+        "category": "Trials"
+    },
+    {
+        "id": "23",
+        "title": "Thok ast Thok (Extreme)",
+        "image": "113028.png",
+        "category": "Trials"
+    },
+    {
+        "id": "62",
+        "title": "the Minstrel's Ballad: Thordan's Reign",
+        "image": "113029.png",
+        "category": "Trials"
+    },
+    {
+        "id": "63",
+        "title": "Containment Bay S1T7 (Extreme)",
+        "image": "113030.png",
+        "category": "Trials"
+    },
+    {
+        "id": "64",
+        "title": "the Minstrel's Ballad: Nidhogg's Rage",
+        "image": "113031.png",
+        "category": "Trials"
+    },
+    {
+        "id": "65",
+        "title": "Containment Bay P1T6 (Extreme)",
+        "image": "113065.png",
+        "category": "Trials"
+    },
+    {
+        "id": "66",
+        "title": "Containment Bay Z1T9 (Extreme)",
+        "image": "113066.png",
+        "category": "Trials"
+    },
+    {
+        "id": "78",
+        "title": "the Pool of Tribute (Extreme)",
+        "image": "113078.png",
+        "category": "Trials"
+    },
+    {
+        "id": "79",
+        "title": "Emanation (Extreme)",
+        "image": "113079.png",
+        "category": "Trials"
+    },
+    {
+        "id": "87",
+        "title": "the Jade Stoa (Extreme)",
+        "image": "113088.png",
+        "category": "Trials"
+    },
+    {
+        "id": "88",
+        "title": "the Minstrel's Ballad: Tsukuyomi's Pain",
+        "image": "113089.png",
+        "category": "Trials"
+    },
+    {
+        "id": "89",
+        "title": "Hells' Kier (Extreme)",
+        "image": "113090.png",
+        "category": "Trials"
+    },
+    {
+        "id": "90",
+        "title": "the Great Hunt (Extreme)",
+        "image": "113091.png",
+        "category": "Trials"
+    },
+    {
+        "id": "91",
+        "title": "the Wreath of Snakes (Extreme)",
+        "image": "113092.png",
+        "category": "Trials"
+    },
+    {
+        "id": "52",
+        "title": "The Feast",
+        "image": "113049.png",
+        "category": "Player vs Player"
+    },
+    {
+        "id": "54",
+        "title": "Frontline",
+        "image": "113057.png",
+        "category": "Player vs Player"
+    },
+    {
+        "id": "67",
+        "title": "Rival Wings",
+        "image": "113085.png",
+        "category": "Player vs Player"
+    },                        
+    {
+        "id": "46",
+        "title": "Aquapolis/Lost Canals/Lyhe Ghiah",
+        "image": "113050.png",
+        "category": "Other"
+    },
+    {
+        "id": "53",
+        "title": "Palace of the Dead/Heaven-on-High",
+        "image": "113056.png",
+        "category": "Other"
+    }             
 ]
