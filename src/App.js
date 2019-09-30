@@ -30,7 +30,7 @@ class App extends React.Component {
   }
 
   componentDidMount() {
-    axios.get('./data.json')
+    axios.get('./json/data.json')
       .then((res) => {
         const categories = this.formatCatgories(res.data);
         this.setState({

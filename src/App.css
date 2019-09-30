@@ -182,15 +182,29 @@ main .tails main .category .category-items .item > img:hover {
   transition: all .4s linear;
 }
 
+
+.selected-container + .selected-container {
+  border-top: 1px solid #DEDEDE;
+  margin-top: 14px;
+  padding-top: 14px;
+}
+
+.selected-container .selected-title {
+  font-size: 11px;
+  font-weight: 700;
+  margin-bottom: 6px;
+  padding-left: 6px; 
+  text-transform: uppercase;
+}
+
 main .tails aside .selected-item {
   background: #F0F0F0;
   display: flex;
   padding: 4px 6px;
 }
 
-
 main .tails aside .selected-item + .selected-item {
-  margin-top: 5px;
+  margin-top: 6px;
 }
 
 main .tails aside .selected-item .item-image img {

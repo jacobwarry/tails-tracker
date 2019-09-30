@@ -3,7 +3,8 @@ export const addItem = (item) => {
         type: 'ADD_ITEM',
         id: item.id,
         title: item.title,
-        image: item.image
+        image: item.image,
+        category: item.category
     };
 };
 

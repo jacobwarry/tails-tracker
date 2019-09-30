@@ -13,7 +13,8 @@ const items = (state = [], action) => {
             return [...state, {
                 id: action.id,
                 title: action.title,
-                image: action.image
+                image: action.image,
+                category: action.category
             }];
         case 'DELETE_ITEM':
             return state.filter(({id}) => id !== action.id);
