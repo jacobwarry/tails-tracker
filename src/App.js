@@ -46,9 +46,12 @@ class App extends React.Component {
         <div className="tails">
           <div className="tails-options">
             <main>
-              {this.state.categories.map((category, key) =>
-                <Category {...category} key={key}/>
-              )}            
+              {this.state.categories.length 
+                ? this.state.categories.map((category, key) =>
+                    <Category {...category} key={key}/>
+                  )
+                : <span>Loading data...</span>
+              }            
             </main>      
           </div>
           <div className="tails-selections">

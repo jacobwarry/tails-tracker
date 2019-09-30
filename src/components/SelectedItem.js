@@ -5,8 +5,8 @@ import { faTimes } from '@fortawesome/free-solid-svg-icons'
 class SelectedItem extends React.Component {
     render() {
         return (
-            <div className="selected-item">
-            <div className="item-image">
+            <div className="selected-item" data-id={this.props.item.id}>
+                <div className="item-image">
                     <img src={'./images/' + this.props.item.image} alt={this.props.item.title} />
                 </div>
                 <div className="item-title">{this.props.item.title}</div>

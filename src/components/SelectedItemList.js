@@ -48,7 +48,7 @@ const SelectedItemList = ({items, onDeleteItem}) => {
                         </div>
                     )
                 })
-                : <div></div>
+                : <div className="selected-none">No content selected</div>
             }
         </div>
     )  

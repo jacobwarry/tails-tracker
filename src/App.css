@@ -182,14 +182,20 @@ main .tails main .category .category-items .item > img:hover {
   transition: all .4s linear;
 }
 
+main .tails aside .selected-none {
+  font-size: 11px;
+  font-weight: 700;
+  padding-left: 6px; 
+  text-transform: uppercase;
+}
 
-.selected-container + .selected-container {
+main .tails aside .selected-container + .selected-container {
   border-top: 1px solid #DEDEDE;
   margin-top: 14px;
   padding-top: 14px;
 }
 
-.selected-container .selected-title {
+main .tails aside .selected-container .selected-title {
   font-size: 11px;
   font-weight: 700;
   margin-bottom: 6px;

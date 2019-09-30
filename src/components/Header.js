@@ -6,7 +6,7 @@ const Header = () => {
             <div>
                 <nav>
                     <div>
-                        <a href="/">
+                        <a href="./">
                             wondrous tails
                         </a>
                     </div>
