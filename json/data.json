@@ -4,64 +4,56 @@
         "sortIndex": "101",
         "title": "Dungeons (Lv. 1-49)",
         "image": "113001.png",
-        "category": "Dungeons",
-        "subcategory": "A Realm Reborn"
+        "category": "Dungeons"
     },
     {
         "id": "2",
         "sortIndex": "102",
         "title": "Dungeons (Lv. 50)",
         "image": "113002.png",
-        "category": "Dungeons",
-        "subcategory": "A Realm Reborn"
+        "category": "Dungeons"
     },
     {
         "id": "3",
         "sortIndex": "103",
         "title": "Dungeons (Lv. 51-59)",
         "image": "113003.png",
-        "category": "Dungeons",
-        "subcategory": "Heavensward"
+        "category": "Dungeons"
     },
     {
         "id": "4",
         "sortIndex": "104",
         "title": "Dungeons (Lv. 60)",
         "image": "113004.png",
-        "category": "Dungeons",
-        "subcategory": "Heavensward"
+        "category": "Dungeons"
     },
     {
         "id": "59",
         "sortIndex": "105",
         "title": "Dungeons (Lv. 61-69)",
         "image": "113062.png",
-        "category": "Dungeons",
-        "subcategory": "Stormblood"
+        "category": "Dungeons"
     },
     {
         "id": "60",
         "sortIndex": "106",
         "title": "Dungeons (Lv. 70)",
         "image": "113063.png",
-        "category": "Dungeons",
-        "subcategory": "Stormblood"
+        "category": "Dungeons"
     },
     {
         "id": "85",
         "sortIndex": "107",
         "title": "Dungeons (Lv. 71-79)",
         "image": "113086.png",
-        "category": "Dungeons",
-        "subcategory": "Shadowbringers"
+        "category": "Dungeons"
     },
     {
         "id": "86",
         "sortIndex": "108",
         "title": "Dungeons (Lv. 80)",
         "image": "113087.png",
-        "category": "Dungeons",
-        "subcategory": "Shadowbringers"
+        "category": "Dungeons"
     },
     {
         "id": "5",
