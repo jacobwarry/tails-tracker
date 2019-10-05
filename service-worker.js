@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wondrous-tails/precache-manifest.7cc1c8a90d584466c37fe9ef7278d41e.js"
+  "/wondrous-tails/precache-manifest.356cc93f08d2412f00c99c35eb1cd170.js"
 );
 
 self.addEventListener('message', (event) => {

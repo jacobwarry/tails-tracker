@@ -1,493 +1,652 @@
 [
     {
         "id": "1",
+        "sortIndex": "101",
         "title": "Dungeons (Lv. 1-49)",
         "image": "113001.png",
-        "category": "Dungeons"
+        "category": "Dungeons",
+        "subcategory": "A Realm Reborn"
     },
     {
         "id": "2",
+        "sortIndex": "102",
         "title": "Dungeons (Lv. 50)",
         "image": "113002.png",
-        "category": "Dungeons"
+        "category": "Dungeons",
+        "subcategory": "A Realm Reborn"
     },
     {
         "id": "3",
+        "sortIndex": "103",
         "title": "Dungeons (Lv. 51-59)",
         "image": "113003.png",
-        "category": "Dungeons"
+        "category": "Dungeons",
+        "subcategory": "Heavensward"
     },
     {
         "id": "4",
+        "sortIndex": "104",
         "title": "Dungeons (Lv. 60)",
         "image": "113004.png",
-        "category": "Dungeons"
+        "category": "Dungeons",
+        "subcategory": "Heavensward"
     },
     {
         "id": "59",
+        "sortIndex": "105",
         "title": "Dungeons (Lv. 61-69)",
         "image": "113062.png",
-        "category": "Dungeons"
+        "category": "Dungeons",
+        "subcategory": "Stormblood"
     },
     {
         "id": "60",
+        "sortIndex": "106",
         "title": "Dungeons (Lv. 70)",
         "image": "113063.png",
-        "category": "Dungeons"
+        "category": "Dungeons",
+        "subcategory": "Stormblood"
     },
     {
         "id": "85",
+        "sortIndex": "107",
         "title": "Dungeons (Lv. 71-79)",
         "image": "113086.png",
-        "category": "Dungeons"
+        "category": "Dungeons",
+        "subcategory": "Shadowbringers"
     },
     {
         "id": "86",
+        "sortIndex": "108",
         "title": "Dungeons (Lv. 80)",
         "image": "113087.png",
-        "category": "Dungeons"
+        "category": "Dungeons",
+        "subcategory": "Shadowbringers"
     },
     {
         "id": "5",
-        "title": "the Labyrinth of the Ancients",
+        "sortIndex": "201",
+        "title": "The Labyrinth of The Ancients",
         "image": "113005.png",
-        "category": "Alliance Raids"
+        "category": "Alliance Raids",
+        "subcategory": "Crystal Tower"
     },
     {
         "id": "6",
+        "sortIndex": "202",
         "title": "Syrcus Tower",
         "image": "113006.png",
-        "category": "Alliance Raids"
+        "category": "Alliance Raids",
+        "subcategory": "Crystal Tower"
     },
     {
         "id": "7",
-        "title": "the World of Darkness",
+        "sortIndex": "203",
+        "title": "The World of Darkness",
         "image": "113007.png",
-        "category": "Alliance Raids"
+        "category": "Alliance Raids",
+        "subcategory": "Crystal Tower"
     },
     {
         "id": "8",
-        "title": "the Void Ark",
+        "sortIndex": "204",
+        "title": "The Void Ark",
         "image": "113008.png",
-        "category": "Alliance Raids"
+        "category": "Alliance Raids",
+        "subcategory": "Shadow of Mhach"
     },
     {
         "id": "41",
-        "title": "the Weeping City of Mhach",
+        "sortIndex": "205",
+        "title": "The Weeping City of Mhach",
         "image": "113009.png",
-        "category": "Alliance Raids"
+        "category": "Alliance Raids",
+        "subcategory": "Shadow of Mhach"
     },
     {
         "id": "61",
+        "sortIndex": "206",
         "title": "Dun Scaith",
         "image": "113064.png",
-        "category": "Alliance Raids"
+        "category": "Alliance Raids",
+        "subcategory": "Shadow of Mhach"
     },
     {
         "id": "68",
-        "title": "the Royal City of Rabanastre",
+        "sortIndex": "207",
+        "title": "The Royal City of Rabanastre",
         "image": "113068.png",
-        "category": "Alliance Raids"
+        "category": "Alliance Raids",
+        "subcategory": "Return to Ivalice"
     },
     {
         "id": "73",
-        "title": "the Ridorana Lighthouse",
+        "sortIndex": "208",
+        "title": "The Ridorana Lighthouse",
         "image": "113073.png",
-        "category": "Alliance Raids"
+        "category": "Alliance Raids",
+        "subcategory": "Return to Ivalice"
     },
     {
         "id": "84",
-        "title": "the Orbonne Monastery",
+        "sortIndex": "209",
+        "title": "The Orbonne Monastery",
         "image": "113080.png",
-        "category": "Alliance Raids"
+        "category": "Alliance Raids",
+        "subcategory": "Return to Ivalice"
     },
     {
         "id": "24",
-        "title": "the Binding Coil of Bahamut - Turn 1",
+        "sortIndex": "301",
+        "title": "Turn 1",
         "image": "113032.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "The Binding Coil of Bahamut"
     },
     {
         "id": "25",
-        "title": "the Binding Coil of Bahamut - Turn 2",
+        "sortIndex": "302",
+        "title": "Turn 2",
         "image": "113033.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "The Binding Coil of Bahamut"
     },
     {
         "id": "26",
-        "title": "the Binding Coil of Bahamut - Turn 3",
+        "sortIndex": "303",
+        "title": "Turn 3",
         "image": "113034.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "The Binding Coil of Bahamut"
     },
     {
         "id": "27",
-        "title": "the Binding Coil of Bahamut - Turn 4",
+        "sortIndex": "304",
+        "title": "Turn 4",
         "image": "113035.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "The Binding Coil of Bahamut"
     },
     {
         "id": "28",
-        "title": "the Binding Coil of Bahamut - Turn 5",
+        "sortIndex": "305",
+        "title": "Turn 5",
         "image": "113036.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "The Binding Coil of Bahamut"
     },
     {
         "id": "29",
-        "title": "the Second Coil of Bahamut - Turn 1",
+        "sortIndex": "306",
+        "title": "Turn 1",
         "image": "113037.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "The Second Coil of Bahamut"
     },
     {
         "id": "30",
-        "title": "the Second Coil of Bahamut - Turn 2",
+        "sortIndex": "307",
+        "title": "Turn 2",
         "image": "113038.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "The Second Coil of Bahamut"
     },
     {
         "id": "31",
-        "title": "the Second Coil of Bahamut - Turn 3",
+        "sortIndex": "308",
+        "title": "Turn 3",
         "image": "113039.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "The Second Coil of Bahamut"
     },
     {
         "id": "32",
-        "title": "the Second Coil of Bahamut - Turn 4",
+        "sortIndex": "309",
+        "title": "Turn 4",
         "image": "113040.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "The Second Coil of Bahamut"
     },
     {
         "id": "33",
-        "title": "the Final Coil of Bahamut - Turn 1",
+        "sortIndex": "310",
+        "title": "Turn 1",
         "image": "113041.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "The Final Coil of Bahamut"
     },
     {
         "id": "34",
-        "title": "the Final Coil of Bahamut - Turn 2",
+        "sortIndex": "311",
+        "title": "Turn 2",
         "image": "113042.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "The Final Coil of Bahamut"
     },
     {
         "id": "35",
-        "title": "the Final Coil of Bahamut - Turn 3",
+        "sortIndex": "312",
+        "title": "Turn 3",
         "image": "113043.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "The Final Coil of Bahamut"
     },
     {
         "id": "36",
-        "title": "the Final Coil of Bahamut - Turn 4",
+        "sortIndex": "313",
+        "title": "Turn 4",
         "image": "113044.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "The Final Coil of Bahamut"
     },
     {
         "id": "9",
-        "title": "Alexander - The Fist of the Father",
+        "sortIndex": "314",
+        "title": "The Fist of The FaTher",
         "image": "113010.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "Alexander: Gordias"
     },
     {
         "id": "10",
-        "title": "Alexander - The Cuff of the Father",
+        "sortIndex": "315",
+        "title": "The Cuff of The FaTher",
         "image": "113011.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "Alexander: Gordias"
     },
     {
         "id": "11",
-        "title": "Alexander - The Arm of the Father",
+        "sortIndex": "316",
+        "title": "The Arm of The FaTher",
         "image": "113012.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "Alexander: Gordias"
     },
     {
         "id": "12",
-        "title": "Alexander - The Burden of the Father",
+        "sortIndex": "317",
+        "title": "The Burden of The FaTher",
         "image": "113013.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "Alexander: Gordias"
     },
     {
         "id": "42",
-        "title": "Alexander - The Fist of the Son",
+        "sortIndex": "318",
+        "title": "The Fist of The Son",
         "image": "113014.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "Alexander: Midas"
     },
     {
         "id": "43",
-        "title": "Alexander - The Cuff of the Son",
+        "sortIndex": "319",
+        "title": "The Cuff of The Son",
         "image": "113015.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "Alexander: Midas"
     },
     {
         "id": "44",
-        "title": "Alexander - The Arm of the Son",
+        "sortIndex": "320",
+        "title": "The Arm of The Son",
         "image": "113016.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "Alexander: Midas"
     },
     {
         "id": "45",
-        "title": "Alexander - The Burden of the Son",
+        "sortIndex": "321",
+        "title": "The Burden of The Son",
         "image": "113017.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "Alexander: Midas"
     },
     {
         "id": "55",
-        "title": "Alexander - The Eyes of the Creator",
+        "sortIndex": "322",
+        "title": "The Eyes of The Creator",
         "image": "113058.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "Alexander: The Creator"
     },
     {
         "id": "56",
-        "title": "Alexander - The Breath of the Creator",
+        "sortIndex": "323",
+        "title": "The Breath of The Creator",
         "image": "113059.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "Alexander: The Creator"
     },
     {
         "id": "57",
-        "title": "Alexander - The Heart of the Creator",
+        "sortIndex": "324",
+        "title": "The Heart of The Creator",
         "image": "113060.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "Alexander: The Creator"
     },
     {
         "id": "58",
-        "title": "Alexander - The Soul of the Creator",
+        "sortIndex": "325",
+        "title": "The Soul of The Creator",
         "image": "113061.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "Alexander: The Creator"
     },
     {
         "id": "69",
+        "sortIndex": "326",
         "title": "Deltascape V1.0",
         "image": "113069.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "Omega: Deltascape"
     },
     {
         "id": "70",
+        "sortIndex": "327",
         "title": "Deltascape V2.0",
         "image": "113070.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "Omega: Deltascape"
     },
     {
         "id": "71",
+        "sortIndex": "328",
         "title": "Deltascape V3.0",
         "image": "113071.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "Omega: Deltascape"
     },
     {
         "id": "72",
+        "sortIndex": "329",
         "title": "Deltascape V4.0",
         "image": "113072.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "Omega: Deltascape"
     },
     {
         "id": "74",
+        "sortIndex": "330",
         "title": "Sigmascape V1.0",
         "image": "113074.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "Omega: Sigmascape"
     },
     {
         "id": "75",
+        "sortIndex": "331",
         "title": "Sigmascape V2.0",
         "image": "113075.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "Omega: Sigmascape"
     },
     {
         "id": "76",
+        "sortIndex": "332",
         "title": "Sigmascape V3.0",
         "image": "113076.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "Omega: Sigmascape"
     },
     {
         "id": "77",
+        "sortIndex": "333",
         "title": "Sigmascape V4.0",
         "image": "113077.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "Omega: Sigmascape"
     },
     {
         "id": "80",
+        "sortIndex": "334",
         "title": "Alphascape V1.0",
         "image": "113081.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "Omega: Alphascape"
     },
     {
         "id": "81",
+        "sortIndex": "335",
         "title": "Alphascape V2.0",
         "image": "113082.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "Omega: Alphascape"
     },
     {
         "id": "82",
+        "sortIndex": "336",
         "title": "Alphascape V3.0",
         "image": "113083.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "Omega: Alphascape"
     },
     {
         "id": "83",
+        "sortIndex": "337",
         "title": "Alphascape V4.0",
         "image": "113084.png",
-        "category": "Normal Raids"
+        "category": "Normal Raids",
+        "subcategory": "Omega: Alphascape"
     },
     {
         "id": "13",
-        "title": "the Howling Eye (Extreme)",
+        "sortIndex": "401",
+        "title": "The Howling Eye (Extreme)",
         "image": "113018.png",
-        "category": "Trials"
+        "category": "Trials",
+        "subcategory": "A Realm Reborn"
     },
     {
         "id": "14",
-        "title": "the Navel (Extreme)",
+        "sortIndex": "402",
+        "title": "The Navel (Extreme)",
         "image": "113019.png",
-        "category": "Trials"
+        "category": "Trials",
+        "subcategory": "A Realm Reborn"
     },
     {
         "id": "15",
-        "title": "the Bowl of Embers (Extreme)",
+        "sortIndex": "403",
+        "title": "The Bowl of Embers (Extreme)",
         "image": "113020.png",
-        "category": "Trials"
+        "category": "Trials",
+        "subcategory": "A Realm Reborn"
     },
     {
         "id": "16",
+        "sortIndex": "404",
         "title": "Thornmarch (Extreme)",
         "image": "113021.png",
-        "category": "Trials"
+        "category": "Trials",
+        "subcategory": "A Realm Reborn"
     },
     {
         "id": "17",
-        "title": "the Whorleater (Extreme)",
+        "sortIndex": "405",
+        "title": "The Whorleater (Extreme)",
         "image": "113022.png",
-        "category": "Trials"
+        "category": "Trials",
+        "subcategory": "A Realm Reborn"
     },
     {
         "id": "18",
-        "title": "the Striking Tree (Extreme)",
+        "sortIndex": "406",
+        "title": "The Striking Tree (Extreme)",
         "image": "113023.png",
-        "category": "Trials"
+        "category": "Trials",
+        "subcategory": "A Realm Reborn"
     },
     {
         "id": "19",
-        "title": "Akh Afah Amphitheatre (Extreme)",
+        "sortIndex": "407",
+        "title": "Akh Afah AmphiTheatre (Extreme)",
         "image": "113024.png",
-        "category": "Trials"
+        "category": "Trials",
+        "subcategory": "A Realm Reborn"
     },
     {
         "id": "20",
-        "title": "the Minstrel's Ballad: Ultima's Bane",
+        "sortIndex": "408",
+        "title": "The Minstrel's Ballad: Ultima's Bane",
         "image": "113025.png",
-        "category": "Trials"
+        "category": "Trials",
+        "subcategory": "A Realm Reborn"
     },
     {
         "id": "21",
+        "sortIndex": "409",
         "title": "Urth's Fount",
         "image": "113026.png",
-        "category": "Trials"
+        "category": "Trials",
+        "subcategory": "A Realm Reborn"
     },
     {
         "id": "22",
-        "title": "the Limitless Blue (Extreme)",
+        "sortIndex": "410",
+        "title": "The Limitless Blue (Extreme)",
         "image": "113027.png",
-        "category": "Trials"
+        "category": "Trials",
+        "subcategory": "Heavensward"
     },
     {
         "id": "23",
+        "sortIndex": "411",
         "title": "Thok ast Thok (Extreme)",
         "image": "113028.png",
-        "category": "Trials"
+        "category": "Trials",
+        "subcategory": "Heavensward"
     },
     {
         "id": "62",
-        "title": "the Minstrel's Ballad: Thordan's Reign",
+        "sortIndex": "412",
+        "title": "The Minstrel's Ballad: Thordan's Reign",
         "image": "113029.png",
-        "category": "Trials"
+        "category": "Trials",
+        "subcategory": "Heavensward"
     },
     {
         "id": "63",
+        "sortIndex": "413",
         "title": "Containment Bay S1T7 (Extreme)",
         "image": "113030.png",
-        "category": "Trials"
+        "category": "Trials",
+        "subcategory": "Heavensward"
     },
     {
         "id": "64",
-        "title": "the Minstrel's Ballad: Nidhogg's Rage",
+        "sortIndex": "414",
+        "title": "The Minstrel's Ballad: Nidhogg's Rage",
         "image": "113031.png",
-        "category": "Trials"
+        "category": "Trials",
+        "subcategory": "Heavensward"
     },
     {
         "id": "65",
+        "sortIndex": "415",
         "title": "Containment Bay P1T6 (Extreme)",
         "image": "113065.png",
-        "category": "Trials"
+        "category": "Trials",
+        "subcategory": "Heavensward"
     },
     {
         "id": "66",
+        "sortIndex": "416",
         "title": "Containment Bay Z1T9 (Extreme)",
         "image": "113066.png",
-        "category": "Trials"
+        "category": "Trials",
+        "subcategory": "Heavensward"
     },
     {
         "id": "78",
-        "title": "the Pool of Tribute (Extreme)",
+        "sortIndex": "417",
+        "title": "The Pool of Tribute (Extreme)",
         "image": "113078.png",
-        "category": "Trials"
+        "category": "Trials",
+        "subcategory": "Stormblood"
     },
     {
         "id": "79",
+        "sortIndex": "418",
         "title": "Emanation (Extreme)",
         "image": "113079.png",
-        "category": "Trials"
+        "category": "Trials",
+        "subcategory": "Stormblood"
     },
     {
         "id": "87",
-        "title": "the Jade Stoa (Extreme)",
+        "sortIndex": "419",
+        "title": "The Jade Stoa (Extreme)",
         "image": "113088.png",
-        "category": "Trials"
+        "category": "Trials",
+        "subcategory": "Stormblood"
     },
     {
         "id": "88",
-        "title": "the Minstrel's Ballad: Tsukuyomi's Pain",
+        "sortIndex": "420",
+        "title": "The Minstrel's Ballad: Tsukuyomi's Pain",
         "image": "113089.png",
-        "category": "Trials"
+        "category": "Trials",
+        "subcategory": "Stormblood"
     },
     {
         "id": "89",
+        "sortIndex": "421",
         "title": "Hells' Kier (Extreme)",
         "image": "113090.png",
-        "category": "Trials"
+        "category": "Trials",
+        "subcategory": "Stormblood"
     },
     {
         "id": "90",
-        "title": "the Great Hunt (Extreme)",
+        "sortIndex": "422",
+        "title": "The Great Hunt (Extreme)",
         "image": "113091.png",
-        "category": "Trials"
+        "category": "Trials",
+        "subcategory": "Stormblood"
     },
     {
         "id": "91",
-        "title": "the Wreath of Snakes (Extreme)",
+        "sortIndex": "423",
+        "title": "The Wreath of Snakes (Extreme)",
         "image": "113092.png",
-        "category": "Trials"
+        "category": "Trials",
+        "subcategory": "Stormblood"
     },
     {
         "id": "52",
+        "sortIndex": "501",
         "title": "The Feast",
         "image": "113049.png",
         "category": "Player vs Player"
     },
     {
         "id": "54",
+        "sortIndex": "502",
         "title": "Frontline",
         "image": "113057.png",
         "category": "Player vs Player"
     },
     {
         "id": "67",
+        "sortIndex": "503",
         "title": "Rival Wings",
         "image": "113085.png",
         "category": "Player vs Player"
     },
     {
         "id": "46",
+        "sortIndex": "601",
         "title": "Aquapolis/Lost Canals/Lyhe Ghiah",
         "image": "113050.png",
         "category": "Other"
     },
     {
         "id": "53",
-        "title": "Palace of the Dead/Heaven-on-High",
+        "sortIndex": "602",
+        "title": "Palace of The Dead/Heaven-on-High",
         "image": "113056.png",
         "category": "Other"
     }
