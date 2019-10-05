@@ -9,7 +9,10 @@ class SelectedItem extends React.Component {
                 <div className="item-image">
                     <img src={'./images/' + this.props.item.image} alt={this.props.item.title} />
                 </div>
-                <div className="item-title">{this.props.item.title}</div>
+                <div className="item-description">
+                    <div className="item-title">{this.props.item.title}</div>
+                    <div className="item-subcategory">{this.props.item.subcategory}</div>
+                </div>
                 <div className="item-actions">
                     <button className="action-btn btn-delete" onClick={() => this.props.onDeleteItem()}>
                         <FontAwesomeIcon icon={faTimes} size="xs" />

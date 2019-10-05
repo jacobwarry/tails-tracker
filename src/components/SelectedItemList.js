@@ -5,26 +5,15 @@ import SelectedItem from './SelectedItem';
 
 const SelectedItemList = ({items, onDeleteItem}) => {
 
-    // formatCatgories(data) {
-    //     let categories = []
-    //     categoryNames.forEach(categoryName => {
-    //       const category = {
-    //         'name': categoryName,
-    //         'items': data.filter(item => item.category === categoryName)
-    //       };
-    //       categories.push(category);
-    //     });
-    //     return categories;
-    //   }
-
     const selectedByCategory = [];
 
     if (items.length) {
+        items.sort((a, b) => a.sortIndex > b.sortIndex ? 1 : -1);
         const categoryNames = items.map(item => item.category).filter((value, index, self) => self.indexOf(value) === index);
         categoryNames.forEach(categoryName => {
           const category = {
             'name': categoryName,
-            'items': items.filter(item => item.category === categoryName).sort((a, b) => a.id > b.id ? 1 : -1)
+            'items': items.filter(item => item.category === categoryName).sort((a, b) => a.sortIndex > b.sortIndex ? 1 : -1)
           };
           selectedByCategory.push(category);
         });

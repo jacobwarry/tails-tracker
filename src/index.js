@@ -6,12 +6,14 @@ import store from './reducers'
 import './index.css';
 import Header from './components/Header';
 import App from './App';
+import Footer from './components/Footer';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
     <Provider store={store}>
         <Header />
         <App />
+        <Footer />
     </Provider>,
     document.getElementById('root')
 );

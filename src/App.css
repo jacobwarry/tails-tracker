@@ -68,8 +68,6 @@ a, a:hover {
 
 html, body {
   background-color: #EAEAEA;
-  /* background-color: #36393f !important;
-  color: #fff; */
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
   margin: 0;
@@ -126,7 +124,6 @@ main .tails .tails-options {
 }
 
 main .tails .tails-selections {
-  /* background-color: #2A2D34; */
   flex: 1 1 calc(50% - 165px);
   padding: 50px 50px 50px 35px;
   border-left: 1px solid #dedede;
@@ -159,7 +156,18 @@ main .tails .big-title {
   margin-bottom: 10px;
 }
 
-main .tails main .category .category-items {
+main .tails main .category .category-items .subcategory + .subcategory {
+  margin-top: 10px;
+}
+
+main .tails main .category .category-items .subcategory .subcategory-title {
+  font-size: 11px;
+  font-weight: 700;
+  padding-left: 6px;
+  text-transform: uppercase;
+}
+
+main .tails main .category .category-items .subcategory .subcategory-items {
   display: flex;
   flex-wrap: wrap;
 }
@@ -180,6 +188,11 @@ main .tails main .category .category-items .item > img:hover {
   filter: grayscale(100%); 
   opacity: 0.8;
   transition: all .4s linear;
+}
+
+main .tails aside .tails-selected {
+  position: sticky;
+  top: 25px;
 }
 
 main .tails aside .selected-none {
@@ -218,12 +231,22 @@ main .tails aside .selected-item .item-image img {
   width: 45px;
 }
 
-main .tails aside .selected-item .item-title {
-  font-size: 14px;
-  font-weight: 500;
-  line-height: 29px;
+main .tails aside .selected-item .item-description {
   padding-left: 7px;
 }
+
+main .tails aside .selected-item .item-title {
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 13px;
+}
+
+main .tails aside .selected-item .item-subcategory {
+  font-size: 9px;
+  margin-top: 4px;
+  text-transform: uppercase;
+}
+
 
 main .tails aside .selected-item .item-actions {
   margin-left: auto;
@@ -269,4 +292,19 @@ main .tails aside .selected-item .item-actions {
 .tooltip {
   font-size: 11px;
   font-weight: 500;
+}
+
+footer {
+  background-color: #23374d; 
+  height: 100px;
+}
+
+footer > div {
+  color: white;
+  font-size: 11px;
+  line-height: 100px;
+  margin: 0 auto;
+  max-width: 1200px;
+  text-align: center;
+  width: 100%;
 }

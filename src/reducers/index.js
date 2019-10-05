@@ -12,9 +12,11 @@ const items = (state = [], action) => {
         case 'ADD_ITEM':
             return [...state, {
                 id: action.id,
+                sortIndex: action.sortIndex,
                 title: action.title,
                 image: action.image,
-                category: action.category
+                category: action.category,
+                subcategory: action.subcategory
             }];
         case 'DELETE_ITEM':
             return state.filter(({id}) => id !== action.id);
