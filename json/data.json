@@ -130,7 +130,7 @@
     {
         "id": "24",
         "sortIndex": "301",
-        "title": "Turn 1",
+        "title": "Turn 1 (T1)",
         "image": "113032.png",
         "category": "Normal Raids",
         "subcategory": "The Binding Coil of Bahamut"
@@ -138,7 +138,7 @@
     {
         "id": "25",
         "sortIndex": "302",
-        "title": "Turn 2",
+        "title": "Turn 2 (T2)",
         "image": "113033.png",
         "category": "Normal Raids",
         "subcategory": "The Binding Coil of Bahamut"
@@ -146,7 +146,7 @@
     {
         "id": "26",
         "sortIndex": "303",
-        "title": "Turn 3",
+        "title": "Turn 3 (T3)",
         "image": "113034.png",
         "category": "Normal Raids",
         "subcategory": "The Binding Coil of Bahamut"
@@ -154,7 +154,7 @@
     {
         "id": "27",
         "sortIndex": "304",
-        "title": "Turn 4",
+        "title": "Turn 4 (T4)",
         "image": "113035.png",
         "category": "Normal Raids",
         "subcategory": "The Binding Coil of Bahamut"
@@ -162,7 +162,7 @@
     {
         "id": "28",
         "sortIndex": "305",
-        "title": "Turn 5",
+        "title": "Turn 5 (T5)",
         "image": "113036.png",
         "category": "Normal Raids",
         "subcategory": "The Binding Coil of Bahamut"
@@ -170,7 +170,7 @@
     {
         "id": "29",
         "sortIndex": "306",
-        "title": "Turn 1",
+        "title": "Turn 1 (T6)",
         "image": "113037.png",
         "category": "Normal Raids",
         "subcategory": "The Second Coil of Bahamut"
@@ -178,7 +178,7 @@
     {
         "id": "30",
         "sortIndex": "307",
-        "title": "Turn 2",
+        "title": "Turn 2 (T7)",
         "image": "113038.png",
         "category": "Normal Raids",
         "subcategory": "The Second Coil of Bahamut"
@@ -186,7 +186,7 @@
     {
         "id": "31",
         "sortIndex": "308",
-        "title": "Turn 3",
+        "title": "Turn 3 (T8)",
         "image": "113039.png",
         "category": "Normal Raids",
         "subcategory": "The Second Coil of Bahamut"
@@ -194,7 +194,7 @@
     {
         "id": "32",
         "sortIndex": "309",
-        "title": "Turn 4",
+        "title": "Turn 4  (T9)",
         "image": "113040.png",
         "category": "Normal Raids",
         "subcategory": "The Second Coil of Bahamut"
@@ -202,7 +202,7 @@
     {
         "id": "33",
         "sortIndex": "310",
-        "title": "Turn 1",
+        "title": "Turn 1 (T10)",
         "image": "113041.png",
         "category": "Normal Raids",
         "subcategory": "The Final Coil of Bahamut"
@@ -210,7 +210,7 @@
     {
         "id": "34",
         "sortIndex": "311",
-        "title": "Turn 2",
+        "title": "Turn 2 (T11)",
         "image": "113042.png",
         "category": "Normal Raids",
         "subcategory": "The Final Coil of Bahamut"
@@ -218,7 +218,7 @@
     {
         "id": "35",
         "sortIndex": "312",
-        "title": "Turn 3",
+        "title": "Turn 3 (T12)",
         "image": "113043.png",
         "category": "Normal Raids",
         "subcategory": "The Final Coil of Bahamut"
@@ -226,7 +226,7 @@
     {
         "id": "36",
         "sortIndex": "313",
-        "title": "Turn 4",
+        "title": "Turn 4 (T13)",
         "image": "113044.png",
         "category": "Normal Raids",
         "subcategory": "The Final Coil of Bahamut"
@@ -234,7 +234,7 @@
     {
         "id": "9",
         "sortIndex": "314",
-        "title": "The Fist of The FaTher",
+        "title": "The Fist of The FaTher (A1)",
         "image": "113010.png",
         "category": "Normal Raids",
         "subcategory": "Alexander: Gordias"
@@ -242,7 +242,7 @@
     {
         "id": "10",
         "sortIndex": "315",
-        "title": "The Cuff of The FaTher",
+        "title": "The Cuff of The FaTher (A2)",
         "image": "113011.png",
         "category": "Normal Raids",
         "subcategory": "Alexander: Gordias"
@@ -250,7 +250,7 @@
     {
         "id": "11",
         "sortIndex": "316",
-        "title": "The Arm of The FaTher",
+        "title": "The Arm of The FaTher (A3)",
         "image": "113012.png",
         "category": "Normal Raids",
         "subcategory": "Alexander: Gordias"
@@ -258,7 +258,7 @@
     {
         "id": "12",
         "sortIndex": "317",
-        "title": "The Burden of The FaTher",
+        "title": "The Burden of The FaTher (A4)",
         "image": "113013.png",
         "category": "Normal Raids",
         "subcategory": "Alexander: Gordias"
@@ -266,7 +266,7 @@
     {
         "id": "42",
         "sortIndex": "318",
-        "title": "The Fist of The Son",
+        "title": "The Fist of The Son (A5)",
         "image": "113014.png",
         "category": "Normal Raids",
         "subcategory": "Alexander: Midas"
@@ -274,7 +274,7 @@
     {
         "id": "43",
         "sortIndex": "319",
-        "title": "The Cuff of The Son",
+        "title": "The Cuff of The Son (A6)",
         "image": "113015.png",
         "category": "Normal Raids",
         "subcategory": "Alexander: Midas"
@@ -282,7 +282,7 @@
     {
         "id": "44",
         "sortIndex": "320",
-        "title": "The Arm of The Son",
+        "title": "The Arm of The Son (A7)",
         "image": "113016.png",
         "category": "Normal Raids",
         "subcategory": "Alexander: Midas"
@@ -290,7 +290,7 @@
     {
         "id": "45",
         "sortIndex": "321",
-        "title": "The Burden of The Son",
+        "title": "The Burden of The Son (A8)",
         "image": "113017.png",
         "category": "Normal Raids",
         "subcategory": "Alexander: Midas"
@@ -298,7 +298,7 @@
     {
         "id": "55",
         "sortIndex": "322",
-        "title": "The Eyes of The Creator",
+        "title": "The Eyes of The Creator (A9)",
         "image": "113058.png",
         "category": "Normal Raids",
         "subcategory": "Alexander: The Creator"
@@ -306,7 +306,7 @@
     {
         "id": "56",
         "sortIndex": "323",
-        "title": "The Breath of The Creator",
+        "title": "The Breath of The Creator (A10)",
         "image": "113059.png",
         "category": "Normal Raids",
         "subcategory": "Alexander: The Creator"
@@ -314,7 +314,7 @@
     {
         "id": "57",
         "sortIndex": "324",
-        "title": "The Heart of The Creator",
+        "title": "The Heart of The Creator (A11)",
         "image": "113060.png",
         "category": "Normal Raids",
         "subcategory": "Alexander: The Creator"
@@ -322,7 +322,7 @@
     {
         "id": "58",
         "sortIndex": "325",
-        "title": "The Soul of The Creator",
+        "title": "The Soul of The Creator (A12)",
         "image": "113061.png",
         "category": "Normal Raids",
         "subcategory": "Alexander: The Creator"
@@ -330,7 +330,7 @@
     {
         "id": "69",
         "sortIndex": "326",
-        "title": "Deltascape V1.0",
+        "title": "Deltascape V1.0 (O1)",
         "image": "113069.png",
         "category": "Normal Raids",
         "subcategory": "Omega: Deltascape"
@@ -338,7 +338,7 @@
     {
         "id": "70",
         "sortIndex": "327",
-        "title": "Deltascape V2.0",
+        "title": "Deltascape V2.0 (O2)",
         "image": "113070.png",
         "category": "Normal Raids",
         "subcategory": "Omega: Deltascape"
@@ -346,7 +346,7 @@
     {
         "id": "71",
         "sortIndex": "328",
-        "title": "Deltascape V3.0",
+        "title": "Deltascape V3.0 (O3)",
         "image": "113071.png",
         "category": "Normal Raids",
         "subcategory": "Omega: Deltascape"
@@ -354,7 +354,7 @@
     {
         "id": "72",
         "sortIndex": "329",
-        "title": "Deltascape V4.0",
+        "title": "Deltascape V4.0 (O4)",
         "image": "113072.png",
         "category": "Normal Raids",
         "subcategory": "Omega: Deltascape"
@@ -362,7 +362,7 @@
     {
         "id": "74",
         "sortIndex": "330",
-        "title": "Sigmascape V1.0",
+        "title": "Sigmascape V1.0 (O5)",
         "image": "113074.png",
         "category": "Normal Raids",
         "subcategory": "Omega: Sigmascape"
@@ -370,7 +370,7 @@
     {
         "id": "75",
         "sortIndex": "331",
-        "title": "Sigmascape V2.0",
+        "title": "Sigmascape V2.0 (O6)",
         "image": "113075.png",
         "category": "Normal Raids",
         "subcategory": "Omega: Sigmascape"
@@ -378,7 +378,7 @@
     {
         "id": "76",
         "sortIndex": "332",
-        "title": "Sigmascape V3.0",
+        "title": "Sigmascape V3.0 (O7)",
         "image": "113076.png",
         "category": "Normal Raids",
         "subcategory": "Omega: Sigmascape"
@@ -386,7 +386,7 @@
     {
         "id": "77",
         "sortIndex": "333",
-        "title": "Sigmascape V4.0",
+        "title": "Sigmascape V4.0 (O8)",
         "image": "113077.png",
         "category": "Normal Raids",
         "subcategory": "Omega: Sigmascape"
@@ -394,7 +394,7 @@
     {
         "id": "80",
         "sortIndex": "334",
-        "title": "Alphascape V1.0",
+        "title": "Alphascape V1.0 (O9)",
         "image": "113081.png",
         "category": "Normal Raids",
         "subcategory": "Omega: Alphascape"
@@ -402,7 +402,7 @@
     {
         "id": "81",
         "sortIndex": "335",
-        "title": "Alphascape V2.0",
+        "title": "Alphascape V2.0 (O10)",
         "image": "113082.png",
         "category": "Normal Raids",
         "subcategory": "Omega: Alphascape"
@@ -410,7 +410,7 @@
     {
         "id": "82",
         "sortIndex": "336",
-        "title": "Alphascape V3.0",
+        "title": "Alphascape V3.0 (O11)",
         "image": "113083.png",
         "category": "Normal Raids",
         "subcategory": "Omega: Alphascape"
@@ -418,7 +418,7 @@
     {
         "id": "83",
         "sortIndex": "337",
-        "title": "Alphascape V4.0",
+        "title": "Alphascape V4.0 (O12)",
         "image": "113084.png",
         "category": "Normal Raids",
         "subcategory": "Omega: Alphascape"
