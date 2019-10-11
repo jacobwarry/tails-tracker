@@ -7,8 +7,9 @@ const Header = () => {
                 <nav>
                     <div>
                         <a href="./">
-                            wondrous tails
+                            tails tracker
                         </a>
+                        <div className="header-subtitle">A Final Fantasy XIV Wondrous Tails To-do List</div>
                     </div>
                 </nav>
             </div>

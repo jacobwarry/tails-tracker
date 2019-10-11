@@ -76,7 +76,8 @@ html, body {
 
 header {
   background-color: #23374d;
-  position: relative;
+  position: sticky;
+  top: 0;
   z-index: 30;  
 }
 
@@ -88,16 +89,17 @@ nav {
 }
 
 nav > div {
-  line-height: 100px;
+  color: white; 
   height: 100px;
 }
 
 nav > div:nth-of-type(1) {
-  flex: 0 1 220px;
+  flex: 0 1 100%;
+  padding-top: 25px;
 }
 
 nav a {
-  color: white;
+  color: white;  
   font-family: 'Questrial', sans-serif;
   font-size: 34px;
   font-weight: 500;
@@ -105,6 +107,13 @@ nav a {
 
 nav a:hover {
   color: white;
+}
+
+nav .header-subtitle {
+  font-size: 10px;
+  font-weight: 200;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
 }
 
 main {
@@ -192,7 +201,7 @@ main .tails main .category .category-items .item > img:hover {
 
 main .tails aside .tails-selected {
   position: sticky;
-  top: 25px;
+  top: 150px;
 }
 
 main .tails aside .selected-none {
@@ -296,13 +305,13 @@ main .tails aside .selected-item .item-actions {
 
 footer {
   background-color: #23374d; 
-  height: 100px;
+  height: 60px;
 }
 
 footer > div {
   color: white;
   font-size: 11px;
-  line-height: 100px;
+  line-height: 60px;
   margin: 0 auto;
   max-width: 1200px;
   text-align: center;
