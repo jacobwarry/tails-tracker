@@ -58,7 +58,7 @@
     {
         "id": "5",
         "sortIndex": "201",
-        "title": "The Labyrinth of The Ancients",
+        "title": "The Labyrinth of the Ancients",
         "image": "113005.png",
         "category": "Alliance Raids",
         "subcategory": "Crystal Tower"
@@ -234,7 +234,7 @@
     {
         "id": "9",
         "sortIndex": "314",
-        "title": "The Fist of The FaTher (A1)",
+        "title": "The Fist of the Father (A1)",
         "image": "113010.png",
         "category": "Normal Raids",
         "subcategory": "Alexander: Gordias"
@@ -242,7 +242,7 @@
     {
         "id": "10",
         "sortIndex": "315",
-        "title": "The Cuff of The FaTher (A2)",
+        "title": "The Cuff of the Father (A2)",
         "image": "113011.png",
         "category": "Normal Raids",
         "subcategory": "Alexander: Gordias"
@@ -250,7 +250,7 @@
     {
         "id": "11",
         "sortIndex": "316",
-        "title": "The Arm of The FaTher (A3)",
+        "title": "The Arm of the Father (A3)",
         "image": "113012.png",
         "category": "Normal Raids",
         "subcategory": "Alexander: Gordias"
@@ -258,7 +258,7 @@
     {
         "id": "12",
         "sortIndex": "317",
-        "title": "The Burden of The FaTher (A4)",
+        "title": "The Burden of the Father (A4)",
         "image": "113013.png",
         "category": "Normal Raids",
         "subcategory": "Alexander: Gordias"
@@ -266,7 +266,7 @@
     {
         "id": "42",
         "sortIndex": "318",
-        "title": "The Fist of The Son (A5)",
+        "title": "The Fist of the Son (A5)",
         "image": "113014.png",
         "category": "Normal Raids",
         "subcategory": "Alexander: Midas"
@@ -274,7 +274,7 @@
     {
         "id": "43",
         "sortIndex": "319",
-        "title": "The Cuff of The Son (A6)",
+        "title": "The Cuff of the Son (A6)",
         "image": "113015.png",
         "category": "Normal Raids",
         "subcategory": "Alexander: Midas"
@@ -282,7 +282,7 @@
     {
         "id": "44",
         "sortIndex": "320",
-        "title": "The Arm of The Son (A7)",
+        "title": "The Arm of the Son (A7)",
         "image": "113016.png",
         "category": "Normal Raids",
         "subcategory": "Alexander: Midas"
@@ -290,7 +290,7 @@
     {
         "id": "45",
         "sortIndex": "321",
-        "title": "The Burden of The Son (A8)",
+        "title": "The Burden of the Son (A8)",
         "image": "113017.png",
         "category": "Normal Raids",
         "subcategory": "Alexander: Midas"
@@ -298,7 +298,7 @@
     {
         "id": "55",
         "sortIndex": "322",
-        "title": "The Eyes of The Creator (A9)",
+        "title": "The Eyes of the Creator (A9)",
         "image": "113058.png",
         "category": "Normal Raids",
         "subcategory": "Alexander: The Creator"
@@ -306,7 +306,7 @@
     {
         "id": "56",
         "sortIndex": "323",
-        "title": "The Breath of The Creator (A10)",
+        "title": "The Breath of the Creator (A10)",
         "image": "113059.png",
         "category": "Normal Raids",
         "subcategory": "Alexander: The Creator"
@@ -314,7 +314,7 @@
     {
         "id": "57",
         "sortIndex": "324",
-        "title": "The Heart of The Creator (A11)",
+        "title": "The Heart of the Creator (A11)",
         "image": "113060.png",
         "category": "Normal Raids",
         "subcategory": "Alexander: The Creator"
@@ -322,7 +322,7 @@
     {
         "id": "58",
         "sortIndex": "325",
-        "title": "The Soul of The Creator (A12)",
+        "title": "The Soul of the Creator (A12)",
         "image": "113061.png",
         "category": "Normal Raids",
         "subcategory": "Alexander: The Creator"
@@ -425,7 +425,7 @@
     },
     {
         "id": "13",
-        "sortIndex": "401",
+        "sortIndex": "403",
         "title": "The Howling Eye (Extreme)",
         "image": "113018.png",
         "category": "Trials",
@@ -433,7 +433,7 @@
     },
     {
         "id": "14",
-        "sortIndex": "402",
+        "sortIndex": "404",
         "title": "The Navel (Extreme)",
         "image": "113019.png",
         "category": "Trials",
@@ -441,7 +441,7 @@
     },
     {
         "id": "15",
-        "sortIndex": "403",
+        "sortIndex": "405",
         "title": "The Bowl of Embers (Extreme)",
         "image": "113020.png",
         "category": "Trials",
@@ -449,7 +449,7 @@
     },
     {
         "id": "16",
-        "sortIndex": "404",
+        "sortIndex": "407",
         "title": "Thornmarch (Extreme)",
         "image": "113021.png",
         "category": "Trials",
@@ -457,7 +457,7 @@
     },
     {
         "id": "17",
-        "sortIndex": "405",
+        "sortIndex": "408",
         "title": "The Whorleater (Extreme)",
         "image": "113022.png",
         "category": "Trials",
@@ -474,14 +474,14 @@
     {
         "id": "19",
         "sortIndex": "407",
-        "title": "Akh Afah AmphiTheatre (Extreme)",
+        "title": "Akh Afah Amphitheatre (Extreme)",
         "image": "113024.png",
         "category": "Trials",
         "subcategory": "A Realm Reborn"
     },
     {
         "id": "20",
-        "sortIndex": "408",
+        "sortIndex": "402",
         "title": "The Minstrel's Ballad: Ultima's Bane",
         "image": "113025.png",
         "category": "Trials",
@@ -489,7 +489,7 @@
     },
     {
         "id": "21",
-        "sortIndex": "409",
+        "sortIndex": "401",
         "title": "Urth's Fount",
         "image": "113026.png",
         "category": "Trials",
@@ -521,7 +521,7 @@
     },
     {
         "id": "63",
-        "sortIndex": "413",
+        "sortIndex": "414",
         "title": "Containment Bay S1T7 (Extreme)",
         "image": "113030.png",
         "category": "Trials",
@@ -529,7 +529,7 @@
     },
     {
         "id": "64",
-        "sortIndex": "414",
+        "sortIndex": "413",
         "title": "The Minstrel's Ballad: Nidhogg's Rage",
         "image": "113031.png",
         "category": "Trials",
@@ -553,7 +553,7 @@
     },
     {
         "id": "78",
-        "sortIndex": "417",
+        "sortIndex": "420",
         "title": "The Pool of Tribute (Extreme)",
         "image": "113078.png",
         "category": "Trials",
@@ -561,7 +561,7 @@
     },
     {
         "id": "79",
-        "sortIndex": "418",
+        "sortIndex": "421",
         "title": "Emanation (Extreme)",
         "image": "113079.png",
         "category": "Trials",
@@ -569,7 +569,7 @@
     },
     {
         "id": "87",
-        "sortIndex": "419",
+        "sortIndex": "424",
         "title": "The Jade Stoa (Extreme)",
         "image": "113088.png",
         "category": "Trials",
@@ -577,7 +577,7 @@
     },
     {
         "id": "88",
-        "sortIndex": "420",
+        "sortIndex": "422",
         "title": "The Minstrel's Ballad: Tsukuyomi's Pain",
         "image": "113089.png",
         "category": "Trials",
@@ -585,7 +585,7 @@
     },
     {
         "id": "89",
-        "sortIndex": "421",
+        "sortIndex": "425",
         "title": "Hells' Kier (Extreme)",
         "image": "113090.png",
         "category": "Trials",
@@ -593,7 +593,7 @@
     },
     {
         "id": "90",
-        "sortIndex": "422",
+        "sortIndex": "423",
         "title": "The Great Hunt (Extreme)",
         "image": "113091.png",
         "category": "Trials",
@@ -601,7 +601,7 @@
     },
     {
         "id": "91",
-        "sortIndex": "423",
+        "sortIndex": "426",
         "title": "The Wreath of Snakes (Extreme)",
         "image": "113092.png",
         "category": "Trials",
