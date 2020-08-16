@@ -645,7 +645,7 @@
     {
         "id": "92",
         "sortIndex": "338",
-        "title": "Resurrection",
+        "title": "Resurrection (E1)",
         "image": "113093.png",
         "category": "Normal Raids",
         "subcategory": "Eden's Gate"
@@ -653,7 +653,7 @@
     {
         "id": "93",
         "sortIndex": "339",
-        "title": "Descent",
+        "title": "Descent (E2)",
         "image": "113094.png",
         "category": "Normal Raids",
         "subcategory": "Eden's Gate"
@@ -661,7 +661,7 @@
     {
         "id": "94",
         "sortIndex": "340",
-        "title": "Inundation",
+        "title": "Inundation (E3)",
         "image": "113095.png",
         "category": "Normal Raids",
         "subcategory": "Eden's Gate"
@@ -669,7 +669,7 @@
     {
         "id": "95",
         "sortIndex": "341",
-        "title": "Sepulture",
+        "title": "Sepulture (E4)",
         "image": "113096.png",
         "category": "Normal Raids",
         "subcategory": "Eden's Gate"
@@ -685,7 +685,7 @@
     {
         "id": "97",
         "sortIndex": "342",
-        "title": "Fulmination",
+        "title": "Fulmination (E5)",
         "image": "113098.png",
         "category": "Normal Raids",
         "subcategory": "Eden's Verse"
@@ -693,7 +693,7 @@
     {
         "id": "98",
         "sortIndex": "343",
-        "title": "Furor",
+        "title": "Furor (E6)",
         "image": "113099.png",
         "category": "Normal Raids",
         "subcategory": "Eden's Verse"
@@ -701,7 +701,7 @@
     {
         "id": "99",
         "sortIndex": "344",
-        "title": "Iconoclasm",
+        "title": "Iconoclasm (E7)",
         "image": "113100.png",
         "category": "Normal Raids",
         "subcategory": "Eden's Verse"
@@ -709,7 +709,7 @@
     {
         "id": "100",
         "sortIndex": "345",
-        "title": "Refulgence",
+        "title": "Refulgence (E8)",
         "image": "113101.png",
         "category": "Normal Raids",
         "subcategory": "Eden's Verse"
