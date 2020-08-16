@@ -30,13 +30,17 @@ class App extends React.Component {
   }
 
   componentDidMount() {
-    axios.get('./json/data.json')
+    axios.get(`${process.env.PUBLIC_URL}/json/data.json`)
       .then((res) => {
         const categories = this.formatCatgories(res.data);
         this.setState({
           items: res.data,
           categories: categories
         })
+      })
+      .catch((err) => {
+
+        console.error(err)
       });
   }
 

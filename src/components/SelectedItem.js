@@ -7,7 +7,7 @@ class SelectedItem extends React.Component {
         return (
             <div className="selected-item" data-id={this.props.item.id}>
                 <div className="item-image">
-                    <img src={'./images/' + this.props.item.image} alt={this.props.item.title} />
+                    <img src={`${process.env.PUBLIC_URL}/images/${this.props.item.image}`} alt={this.props.item.title} />
                 </div>
                 <div className="item-description">
                     <div className="item-title">{this.props.item.title}</div>

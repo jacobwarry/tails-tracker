@@ -641,5 +641,77 @@
         "title": "Palace of The Dead/Heaven-on-High",
         "image": "113056.png",
         "category": "Other"
+    },
+    {
+        "id": "92",
+        "sortIndex": "338",
+        "title": "Resurrection",
+        "image": "113093.png",
+        "category": "Normal Raids",
+        "subcategory": "Eden's Gate"
+    },
+    {
+        "id": "93",
+        "sortIndex": "339",
+        "title": "Descent",
+        "image": "113094.png",
+        "category": "Normal Raids",
+        "subcategory": "Eden's Gate"
+    },
+    {
+        "id": "94",
+        "sortIndex": "340",
+        "title": "Inundation",
+        "image": "113095.png",
+        "category": "Normal Raids",
+        "subcategory": "Eden's Gate"
+    },
+    {
+        "id": "95",
+        "sortIndex": "341",
+        "title": "Sepulture",
+        "image": "113096.png",
+        "category": "Normal Raids",
+        "subcategory": "Eden's Gate"
+    },
+    {
+        "id": "96",
+        "sortIndex": "210",
+        "title": "The Copied Factory",
+        "image": "113097.png",
+        "category": "Alliance Raids",
+        "subcategory": "YoRHa: Dark Apocalypse"
+    },
+    {
+        "id": "97",
+        "sortIndex": "342",
+        "title": "Fulmination",
+        "image": "113098.png",
+        "category": "Normal Raids",
+        "subcategory": "Eden's Verse"
+    },
+    {
+        "id": "98",
+        "sortIndex": "343",
+        "title": "Furor",
+        "image": "113099.png",
+        "category": "Normal Raids",
+        "subcategory": "Eden's Verse"
+    },
+    {
+        "id": "99",
+        "sortIndex": "344",
+        "title": "Iconoclasm",
+        "image": "113100.png",
+        "category": "Normal Raids",
+        "subcategory": "Eden's Verse"
+    },
+    {
+        "id": "100",
+        "sortIndex": "345",
+        "title": "Refulgence",
+        "image": "113101.png",
+        "category": "Normal Raids",
+        "subcategory": "Eden's Verse"
     }
 ]
